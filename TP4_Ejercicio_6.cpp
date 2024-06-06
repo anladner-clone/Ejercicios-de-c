@@ -1,6 +1,6 @@
 /*
-Escribir un programa que lea un conjunto de ternas hasta la terna (0,0,0) y para cada una determine si los
-tres valores son iguales. 
+Escribir un programa que lea un conjunto de ternas hasta la terna
+(0,0,0) y para cada una determine si los tres valores son iguales. 
 Al final del proceso mostrar la cantidad de ternas que sus tres valores eran iguales en el programa principal. 
 */
 
