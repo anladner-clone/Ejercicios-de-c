@@ -1,8 +1,6 @@
 /*
-Escribir un programa que lea un conjunto de ternas hasta la terna (0,0,0) y para cada
-uno determine mediante una función tipo booleana (que devuelva true o false) si los
-tres valores son iguales. Por fin de proceso mostrar la cantidad de ternas que
-hicieron verdadera la función en el programa principal. 
+Escribir un programa que lea un conjunto de ternas hasta la terna (0,0,0) y para cada una determine si los
+tres valores son iguales. Al final del proceso mostrar la cantidad de ternas que sus tres valores eran iguales en el programa principal. 
 */
 
 #include <stdio.h>
