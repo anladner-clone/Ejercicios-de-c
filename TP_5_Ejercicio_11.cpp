@@ -15,12 +15,12 @@ int main(){
 		indice = num/10;
 		vectorDeEstadistica[indice]+=1;
 	}
-
+	
 	for(int linea = 0; linea < 10; linea++){
 		for(int caracter = 0; caracter < vectorDeEstadistica[linea]; caracter++){
-			if(caracter==0)printf("\n\tDecena %d: ", linea);
+			if(caracter==0)printf("\n\t%d0 - %2.d   |  ", linea, (linea*10)+9);
 			printf(" * ");
 		}
-		printf("\n\t");
 	}
+	
 }
