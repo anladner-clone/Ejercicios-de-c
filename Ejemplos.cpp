@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-	int notas[3];
+	int edades[5];
 	for(int i = 0; i<3; i++){
 	   printf("\n");
-	   printf("Ingrese la nota %d: ", i);
-	   scanf("%d", &notas[i]);
+	   printf("Ingrese la edad %d: ", i);
+	   scanf("%d", &edades[i]);
 	   }
 }
